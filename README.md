@@ -81,8 +81,8 @@ Welcome to my GitHub page. I am Danil Pelts, a passionate DevOps engineer who is
       <br>Raspberry Pi
     </td>
     <td align="center" width="96">
-        <img src="" width="48" height="48" alt="Linux" />
-      <br>добавить
+        <img src="https://images.icon-icons.com/2389/PNG/512/proxmox_logo_icon_144960.png" width="48" height="48" alt="Linux" />
+      <br>Proxmox
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="dart" />
@@ -127,8 +127,8 @@ Welcome to my GitHub page. I am Danil Pelts, a passionate DevOps engineer who is
       <br>PowerShell
     </td>
     <td align="center" width="96">
-        <img src="" width="40" height="40" alt="dart" />
-      <br>Добавить
+        <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="dart" />
+      <br>Java
     </td>
     <td align="center" width="96">
         <img src="https://images.icon-icons.com/2108/PNG/512/nextcloud_icon_130873.png" width="48" height="48" alt="dart" />

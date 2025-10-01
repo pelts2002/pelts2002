@@ -51,8 +51,8 @@ Welcome to my GitHub page. I am Danil Pelts, a passionate DevOps engineer who is
       <br>Ansible
     </td>
         <td align="center" width="96">
-        <img src="https://images.icon-icons.com/2108/PNG/512/nextcloud_icon_130873.png" width="48" height="48" alt="jquery" />
-      <br>Nextcloud
+        <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="jquery" />
+      <br>Terraform
     </td>
     <td align="center" width="96">
         <img src="" width="48" height="48" alt="Linux" />
@@ -69,16 +69,16 @@ Welcome to my GitHub page. I am Danil Pelts, a passionate DevOps engineer who is
       <br>Linux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="dart" />
-      <br>Raspberry Pi
+        <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="dart" />
+      <br>Ubuntu
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redhat" width="48" height="48" alt="dart" />
       <br>Red Hat
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="dart" />
-      <br>Ubuntu
+        <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="dart" />
+      <br>Raspberry Pi
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=elasticsearch" width="40" height="40" alt="dart" />
@@ -97,8 +97,8 @@ Welcome to my GitHub page. I am Danil Pelts, a passionate DevOps engineer who is
       <br>Prometheus
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=powershell" width="40" height="40" alt="dart" />
-      <br>PowerShell
+        <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="dart" />
+      <br>AWS
     </td>
   </tr>
    <tr>
@@ -119,20 +119,20 @@ Welcome to my GitHub page. I am Danil Pelts, a passionate DevOps engineer who is
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="dart" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="dart" />
       <br>Bash
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="dart" />
-      <br>Terraform
+        <img src="https://skillicons.dev/icons?i=aws https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="dart" />
+      <br>PowerShell
+    </td>
+    <td align="center" width="96">
+        <img src="" width="40" height="40" alt="dart" />
+      <br>Добавить
+    </td>
+    <td align="center" width="96">
+        <img src="https://images.icon-icons.com/2108/PNG/512/nextcloud_icon_130873.png" width="48" height="48" alt="dart" />
+      <br>Nextcloud
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vim" width="40" height="40" alt="dart" />

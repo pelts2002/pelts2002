@@ -59,8 +59,8 @@ Welcome to my GitHub page. I am Danil Pelts, a passionate DevOps engineer who is
       <br>Terraform
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="dart" />
+      <br>AWS
     </td>
   </tr>
   <tr>
@@ -97,8 +97,8 @@ Welcome to my GitHub page. I am Danil Pelts, a passionate DevOps engineer who is
       <br>Prometheus
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="dart" />
-      <br>AWS
+        <img src="https://skillicons.dev/icons?i=rabbitmq" width="40" height="40" alt="dart" />
+      <br>RabbitMQ
     </td>
   </tr>
    <tr>

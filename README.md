@@ -16,7 +16,7 @@
 </div>
 <p></p>
 <p align="justify">
-Welcome to my GitHub page. I am Daniel Peltz, a passionate DevOps engineer who is constantly exploring and mastering new tools and methodologies in the field of automation, cloud infrastructure, and CI/CD pipelines. With over 3 years of experience in managing scalable environments and optimizing deployment workflows, I help teams develop software faster and more reliably. I also share my knowledge and insights with the community through various channels, including social media and tech blogs.
+Welcome to my GitHub page. I am Danil Pelts, a passionate DevOps engineer who is constantly exploring and mastering new tools and methodologies in the field of automation, cloud infrastructure, and CI/CD pipelines. With over 3 years of experience in managing scalable environments and optimizing deployment workflows, I help teams develop software faster and more reliably. I also share my knowledge and insights with the community through various channels, including social media and tech blogs.
 
 </p>
 
@@ -27,30 +27,28 @@ Welcome to my GitHub page. I am Daniel Peltz, a passionate DevOps engineer who i
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
+        <img src="https://skillicons.dev/icons?i=git" alt="icon" width="65" height="65" />
+      <br>Git
     </td>
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
     </td>
           <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
+        <img src="https://skillicons.dev/icons?i=gitlab" width="65" height="65" alt="Rest API" />
+      <br>GitLab
     </td>
           <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Docker
     </td>
 	    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+        <img src="https://images.icon-icons.com/2699/PNG/512/zabbix_logo_icon_167937.png" width="48" height="48" alt="Git" />
+      <br>Zabbix
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
+        <img src="https://images.icon-icons.com/2389/PNG/512/ansible_logo_icon_145495.png" width="48" height="48" alt="GitLab" />
+      <br>Ansible
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="jquery" />
@@ -117,7 +115,7 @@ Welcome to my GitHub page. I am Daniel Peltz, a passionate DevOps engineer who i
       <br>Jenkins
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="dart" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="dart" />
       <br>Python
     </td>
     <td align="center" width="96">

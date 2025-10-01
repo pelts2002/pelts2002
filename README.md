@@ -122,7 +122,7 @@ Welcome to my GitHub page. I am Danil Pelts, a passionate DevOps engineer who is
       <br>Jenkins
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="dart" />
+        <img src="https://images.icon-icons.com/2107/PNG/512/file_type_python_icon_130221.png" width="48" height="48" alt="dart" />
       <br>Python
     </td>
     <td align="center" width="96">

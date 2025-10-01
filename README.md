@@ -123,7 +123,7 @@ Welcome to my GitHub page. I am Danil Pelts, a passionate DevOps engineer who is
       <br>Bash
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="dart" />
       <br>PowerShell
     </td>
     <td align="center" width="96">

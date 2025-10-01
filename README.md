@@ -24,17 +24,19 @@ Welcome to my GitHub page. I am Danil Pelts, a passionate DevOps engineer who is
 
 > Tools and technologies that I have worked with and am interested in
 
-<table style="table-layout: fixed; max-width: 100%; overflow-x: hidden;">
+<table>
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" alt="icon" width="65" height="65" />
       <br>Git
     </td>
-       <td align="center" width="96">
+    <td align="center" width="96">
+      <a href="#macropower-tech">
         <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
+      </a>
       <br>GitHub
     </td>
-          <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gitlab" width="65" height="65" alt="Rest API" />
       <br>GitLab
     </td>

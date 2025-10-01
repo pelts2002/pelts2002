@@ -80,7 +80,7 @@ Welcome to my GitHub page. I am Danil Pelts, a passionate DevOps engineer who is
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="dart" />
-      <br>Raspberry Pi
+      <br>RPi
     </td>
     <td align="center" width="96">
         <img src="https://images.icon-icons.com/2389/PNG/512/proxmox_logo_icon_144960.png" width="48" height="48" alt="Linux" />

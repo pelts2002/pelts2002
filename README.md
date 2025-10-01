@@ -31,8 +31,8 @@ Welcome to my GitHub page. I am Danil Pelts, a passionate DevOps engineer who is
       <br>Git
     </td>
        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
+        <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
+      <br>GitHub
     </td>
           <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gitlab" width="65" height="65" alt="Rest API" />
@@ -51,12 +51,12 @@ Welcome to my GitHub page. I am Danil Pelts, a passionate DevOps engineer who is
       <br>Ansible
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="jquery" />
-      <br>GitHub
+        <img src="https://images.icon-icons.com/2108/PNG/512/nextcloud_icon_130873.png" width="48" height="48" alt="jquery" />
+      <br>Nextcloud
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
+        <img src="" width="48" height="48" alt="Linux" />
+      <br>добавить
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
@@ -69,16 +69,16 @@ Welcome to my GitHub page. I am Danil Pelts, a passionate DevOps engineer who is
       <br>Linux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
+        <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="dart" />
+      <br>Raspberry Pi
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="dart" />
-      <br>AWS
+        <img src="https://skillicons.dev/icons?i=redhat" width="48" height="48" alt="dart" />
+      <br>Red Hat
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="dart" />
-      <br>Bash
+        <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="dart" />
+      <br>Ubuntu
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=elasticsearch" width="40" height="40" alt="dart" />
@@ -119,20 +119,20 @@ Welcome to my GitHub page. I am Danil Pelts, a passionate DevOps engineer who is
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="dart" />
-      <br>Raspberry Pi
+        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
+      <br>RabbitMQ
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redhat" width="48" height="48" alt="dart" />
-      <br>Red Hat
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="dart" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="dart" />
+      <br>Bash
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="dart" />
       <br>Terraform
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="dart" />
-      <br>Ubuntu
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vim" width="40" height="40" alt="dart" />

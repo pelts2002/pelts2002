@@ -1,25 +1,25 @@
 <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Danil" title="👋 Hi there! I'm Danil"/>
 <div align="justify">
 
-<div align="center" style="width: 100%;">
-  <span style="float: left;">
-    <a href="https://www.instagram.com/pelts_danil/">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&logoSize=20">
-    </a>
-  </span>
-
-  <span>
-    <a href="https://t.me/Danil_pppl">
-      <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoSize=20">
-    </a>
-  </span>
-
-  <span style="float: right;">
-    <a href="https://gitlab.com/rzashakeri">
-      <img src="https://img.shields.io/badge/-Vkontakte?style=for-the-badge&logo=vk&logoColor=white&label=%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5&labelColor=%234c75a3&color=%234c75a3&logoSize=20">
-    </a>
-  </span>
-</div>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="https://www.instagram.com/pelts_danil/">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&logoSize=20">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://t.me/Danil_pppl">
+        <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoSize=20">
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://gitlab.com/rzashakeri">
+        <img src="https://img.shields.io/badge/-Vkontakte?style=for-the-badge&logo=vk&logoColor=white&label=%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5&labelColor=%234c75a3&color=%234c75a3&logoSize=20">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 </div>

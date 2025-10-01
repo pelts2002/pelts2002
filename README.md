@@ -46,6 +46,10 @@ Welcome to my GitHub page. I am Danil Pelts, a passionate DevOps engineer who is
         <img src="https://images.icon-icons.com/2699/PNG/512/zabbix_logo_icon_167937.png" width="48" height="48" alt="Git" />
       <br>Zabbix
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=elasticsearch" width="40" height="40" alt="dart" />
+      <br>ELK
+    </td>
     <td align="center"  width="96">
         <img src="https://images.icon-icons.com/2389/PNG/512/ansible_logo_icon_145495.png" width="48" height="48" alt="GitLab" />
       <br>Ansible
@@ -53,10 +57,6 @@ Welcome to my GitHub page. I am Danil Pelts, a passionate DevOps engineer who is
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="jquery" />
       <br>Terraform
-    </td>
-    <td align="center" width="96">
-        <img src="" width="48" height="48" alt="Linux" />
-      <br>добавить
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
@@ -81,8 +81,8 @@ Welcome to my GitHub page. I am Danil Pelts, a passionate DevOps engineer who is
       <br>Raspberry Pi
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=elasticsearch" width="40" height="40" alt="dart" />
-      <br>ELK
+        <img src="" width="48" height="48" alt="Linux" />
+      <br>добавить
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="dart" />

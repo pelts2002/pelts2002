@@ -24,7 +24,7 @@ Welcome to my GitHub page. I am Danil Pelts, a passionate DevOps engineer who is
 
 > Tools and technologies that I have worked with and am interested in
 
-<table>
+<table style="table-layout: fixed; max-width: 100%; overflow-x: hidden;">
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" alt="icon" width="65" height="65" />

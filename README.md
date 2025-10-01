@@ -32,12 +32,12 @@ Welcome to my GitHub page. I am Danil Pelts, a passionate DevOps engineer who is
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
+        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="48" height="48" />
       </a>
       <br>GitHub
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="65" height="65" alt="Rest API" />
+        <img src="https://skillicons.dev/icons?i=gitlab" alt="icon" width="48" height="48" />
       <br>GitLab
     </td>
           <td align="center" width="96">

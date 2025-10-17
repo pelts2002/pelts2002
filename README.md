@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://www.instagram.com/pelts_danil/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" width="180">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" width="190">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/Danil_pppl">
@@ -15,7 +15,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:your-email@mail.ru">
-    <img src="https://img.shields.io/badge/Mail.ru-005FF9.svg?style=for-the-badge&logo=mail.ru&logoColor=white" width="160">
+    <img src="https://img.shields.io/badge/Mail.ru-005FF9.svg?style=for-the-badge&logo=mail.ru&logoColor=white" width="150">
   </a>
 </div>
 

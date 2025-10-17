@@ -17,7 +17,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://vk.com/id277744345">
-  <img src="https://mir-s3-cdn-cf.behance.net/projects/max_808/e8331f16311235.Y3JvcCwxMDAyLDc4NCw4MSww.jpg" width="200">
+  <img src="https://mir-s3-cdn-cf.behance.net/projects/max_808/e8331f16311235.Y3JvcCwxMDAyLDc4NCw4MSww.jpg" width="180">
 </a>
 
 

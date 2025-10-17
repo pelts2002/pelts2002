@@ -11,11 +11,11 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://vk.com/id277744345">
-    <img src="https://img.shields.io/badge/ВКонтакте-0077FF.svg?style=for-the-badge&logo=vk&logoColor=white" width="180">
+    <img src="https://img.shields.io/badge/ВКонтакте-0077FF.svg?style=for-the-badge&logo=vk&logoColor=white" width="190">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:your-email@mail.ru">
-    <img src="https://img.shields.io/badge/Mail.ru-005FF9.svg?style=for-the-badge&logo=mail.ru&logoColor=white" width="150">
+    <img src="https://img.shields.io/badge/Mail.ru-005FF9.svg?style=for-the-badge&logo=mail.ru&logoColor=white" width="160">
   </a>
 </div>
 

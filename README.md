@@ -3,19 +3,19 @@
 
 <div align="center">
   <a href="https://www.instagram.com/pelts_danil/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="140">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" width="180">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/Danil_pppl">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" width="140">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" width="180">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://vk.com/id277744345">
-    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" width="140">
+    <img src="https://img.shields.io/badge/VK-0077FF.svg?style=for-the-badge&logo=vk&logoColor=white" width="180">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:your-email@mail.ru">
-    <img src="https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" width="140">
+    <img src="https://img.shields.io/badge/Mail.ru-005FF9.svg?style=for-the-badge&logo=mail.ru&logoColor=white" width="180">
   </a>
 </div>
 

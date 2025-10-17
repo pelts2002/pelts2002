@@ -3,19 +3,19 @@
 
 <div align="center">
   <a href="https://www.instagram.com/pelts_danil/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&logoSize=36" width="180">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" width="180">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/Danil_pppl">
-    <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoSize=36" width="180">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" width="180">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://vk.com/id277744345">
-    <img src="https://img.shields.io/badge/-Vkontakte?style=for-the-badge&logo=vk&logoColor=white&label=%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5&labelColor=%234c75a3&color=%234c75a3&logoSize=36" width="180">
+    <img src="https://img.shields.io/badge/VK-4680C2.svg?style=for-the-badge&logo=vk&logoColor=white" width="180">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://vk.com/id277744345">
-    <img src="https://mir-s3-cdn-cf.behance.net/projects/max_808/e8331f16311235.Y3JvcCwxMDAyLDc4NCw4MSww.jpg" width="180">
+  <a href="mailto:your-email@mail.ru">
+    <img src="https://img.shields.io/badge/Mail.ru-005FF9.svg?style=for-the-badge&logo=mail.ru&logoColor=white" width="180">
   </a>
 </div>
 

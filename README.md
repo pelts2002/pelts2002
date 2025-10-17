@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/ВКонтакте-0077FF.svg?style=for-the-badge&logo=vk&logoColor=white" width="190">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:your-email@mail.ru">
+  <a href="mailto:pelts2002@mail.ru">
     <img src="https://img.shields.io/badge/Mail.ru-005FF9.svg?style=for-the-badge&logo=mail.ru&logoColor=white" width="160">
   </a>
 </div>

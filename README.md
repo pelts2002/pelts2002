@@ -15,7 +15,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=36" width="180">
+    <img src="https://mir-s3-cdn-cf.behance.net/projects/max_808/e8331f16311235.Y3JvcCwxMDAyLDc4NCw4MSww.jpg" width="180" height="28" style="object-fit: cover;">
   </a>
 </div>
 

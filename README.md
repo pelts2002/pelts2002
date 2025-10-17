@@ -11,7 +11,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://vk.com/id277744345">
-    <img src="https://img.shields.io/badge/VK-0077FF.svg?style=for-the-badge&logo=vk&logoColor=white" width="180">
+    <img src="https://img.shields.io/badge/ВКонтакте-0077FF.svg?style=for-the-badge&logo=vk&logoColor=white" width="180">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:your-email@mail.ru">

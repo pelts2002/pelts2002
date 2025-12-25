@@ -1,5 +1,9 @@
-<img src="https://i.giphy.com/10zxDv7Hv5RF9C.webp" alt="👋 Hi there! I'm Danil" title="👋 Hi there! I'm Danil"/>
+<div align="center">
+  <img src="https://i.giphy.com/10zxDv7Hv5RF9C.webp" alt="👋 Hi there! I'm Danil" title="👋 Hi there! I'm Danil"/>
+</div>
 <div align="justify">
+  <!-- Ваш текст здесь -->
+</div>
 
 <div align="center">
   <a href="https://www.instagram.com/pelts_danil/">

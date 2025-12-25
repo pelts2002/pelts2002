@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Danil" title="👋 Hi there! I'm Danil"/>
+<img src="https://i.giphy.com/10zxDv7Hv5RF9C.webp" alt="👋 Hi there! I'm Danil" title="👋 Hi there! I'm Danil"/>
 <div align="justify">
 
 <div align="center">

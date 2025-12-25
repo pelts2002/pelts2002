@@ -1,4 +1,5 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNoNjZpbmc0MGx6bGR1ZWR5eGIxemplODVvNmpnNXBuY2t0dHp2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNfcWhlz0GTkzcnZWh/giphy.gif" alt="👋 Hi there! I'm Danil" title="👋 Hi there! I'm Danil"/>
+<!-- <img src="https://ссылка.gif" alt="👋 Hi there! I'm Danil" title="👋 Hi there! I'm Danil"/> --> 
+<img src="my-animation.gif" alt="👋 Hi there! I'm Danil" title="👋 Hi there! I'm Danil"/>
 <div align="justify">
 
 <div align="center">

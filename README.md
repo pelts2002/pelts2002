@@ -1,5 +1,5 @@
 <!-- <img src="https://ссылка.gif" alt="👋 Hi there! I'm Danil" title="👋 Hi there! I'm Danil"/> --> 
-<img src="my-animation.gif" alt="👋 Hi there! I'm Danil" title="👋 Hi there! I'm Danil"/>
+<img src="intro.gif" alt="👋 Hi there! I'm Danil" title="👋 Hi there! I'm Danil"/>
 <div align="justify">
 
 <div align="center">
